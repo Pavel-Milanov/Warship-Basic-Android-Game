@@ -1,1 +1,4 @@
-# Warship-Basic-Android-Game
+# Warship Basic Android Game
+
+Basic Android Game.
+Learned basic graphics.
